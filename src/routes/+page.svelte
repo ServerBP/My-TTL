@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
 
   // Set your target date here (example: July 4, 2025 00:00:00 UTC)
-  const targetDate = new Date('2026-07-06T00:12:00Z').getTime();
+  const targetDate = new Date('2026-02-22T00:12:00Z').getTime();
 
   let days: number = 0;
   let hours: number = 0;
